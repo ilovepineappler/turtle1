@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourceProject</string>
+    <string name="str_ok">확인</string>
+    <string name="str_save">저장</string>
+</resources>

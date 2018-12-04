@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fcmhanproject100</string>
+    <string name="default_notification_channel_id">fcmhanproject100</string>
+</resources>

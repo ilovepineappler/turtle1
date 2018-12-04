@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "397514489207",
+    "firebase_url": "https://fcmsample-kpc.firebaseio.com",
+    "project_id": "fcmsample-kpc",
+    "storage_bucket": "fcmsample-kpc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397514489207:android:aeb116e4bae76fd8",
+        "android_client_info": {
+          "package_name": "user.kpc.com.fcmsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397514489207-ielrun180d2tm7upn70i6chgc5jq8l42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYb2g3Hf4GCYFlkbXUxqKbeTgySzyEKBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
